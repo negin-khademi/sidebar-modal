@@ -4,11 +4,11 @@ import Sidebar from './Sidebar';
 
 function App() {
   return (
-    <div>
+    <>
       <Home />
       <Modal />
       <Sidebar />
-    </div>
+    </>
   );
 }
 
